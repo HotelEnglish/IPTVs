@@ -1,3 +1,8 @@
+#TVBox 可用接口地址：(2024年2月8日)
+- https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json（内地加载有点慢，海外请自测）
+- http://pandown.pro/tvbox/tvbox.json(速度快，稳定可用 | 推荐)
+- 
+
 #  IPTV直播源 (定期更新)
 自动整合 好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流
 
